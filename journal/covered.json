@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "url": "https://anthropic.com/news/claude-for-teachers",
+    "title": "Introducing Claude for Teachers",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-for-teachers.md"
+  },
+  {
+    "url": "https://anthropic.com/news/canadian-ai-research",
+    "title": "Anthropic commits $10 million to Canadian AI research",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-anthropic-canada-ai-research.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/d4d8fbb",
+    "title": "Claude Code v2.1.207",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/1fb278b",
+    "title": "Claude Code v2.1.208",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/988b3e5",
+    "title": "Claude Code v2.1.209",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/b7784f2",
+    "title": "Claude Code v2.1.210",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/c39cb0f",
+    "title": "Claude Code v2.1.211",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/67f390c",
+    "title": "Claude Code v2.1.212",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/07dcb0e",
+    "title": "Claude Code v2.1.214",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#july-14-2026-admin-api-user-management",
+    "title": "Admin API: manage Claude Enterprise members (beta)",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-api-release-notes.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/build-with-claude/mid-conversation-system-messages",
+    "title": "Mid-conversation system messages, generally available",
+    "coveredOn": "2026-07-18",
+    "post": "posts/2026-07-18-claude-api-release-notes.md"
+  }
+]
