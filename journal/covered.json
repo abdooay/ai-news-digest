@@ -94,5 +94,23 @@
     "title": "Why teens deserve access to safe AI",
     "coveredOn": "2026-07-19",
     "post": "posts/2026-07-19-openai-teen-safety.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+    "title": "Apply for Anthropic's AI for Science rare disease research grants",
+    "coveredOn": "2026-07-21",
+    "post": "posts/2026-07-21-rare-disease-research-grants.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/4d07874",
+    "title": "Claude Code v2.1.216",
+    "coveredOn": "2026-07-21",
+    "post": "posts/2026-07-21-claude-code-v2-1-216.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#july-17-2026",
+    "title": "Legacy Workbench and experimental prompt tools APIs retiring",
+    "coveredOn": "2026-07-21",
+    "post": "posts/2026-07-21-claude-workbench-sunset.md"
   }
 ]
