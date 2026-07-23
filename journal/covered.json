@@ -154,5 +154,35 @@
     "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "coveredOn": "2026-07-22",
     "post": "posts/2026-07-22-openai-board-appointments.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+    "title": "A research agenda for the Economic Futures Research Fund",
+    "coveredOn": "2026-07-23",
+    "post": "posts/2026-07-23-economic-futures-research-fund-agenda.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "title": "Ask Claude about the Anthropic Economic Index",
+    "coveredOn": "2026-07-23",
+    "post": "posts/2026-07-23-claude-economic-index-connector.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/donation-public-first-action",
+    "title": "Anthropic is donating another $20 million to Public First Action",
+    "coveredOn": "2026-07-23",
+    "post": "posts/2026-07-23-anthropic-public-first-action-donation.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/2982f95",
+    "title": "Claude Code v2.1.218",
+    "coveredOn": "2026-07-23",
+    "post": "posts/2026-07-23-claude-code-v2-1-218.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#july-22-2026",
+    "title": "Claude Managed Agents: effort levels, webhooks, session seeding, event deltas",
+    "coveredOn": "2026-07-23",
+    "post": "posts/2026-07-23-claude-managed-agents-updates.md"
   }
 ]
