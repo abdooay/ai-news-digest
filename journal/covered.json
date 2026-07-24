@@ -184,5 +184,23 @@
     "title": "Claude Managed Agents: effort levels, webhooks, session seeding, event deltas",
     "coveredOn": "2026-07-23",
     "post": "posts/2026-07-23-claude-managed-agents-updates.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-presence/",
+    "title": "Introducing OpenAI Presence",
+    "coveredOn": "2026-07-24",
+    "post": "posts/2026-07-22-openai-presence.md"
+  },
+  {
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai/",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "coveredOn": "2026-07-24",
+    "post": "posts/2026-07-22-openai-news-organizations.md"
+  },
+  {
+    "url": "https://openai.com/index/health-in-chatgpt/",
+    "title": "Launching Health in ChatGPT",
+    "coveredOn": "2026-07-24",
+    "post": "posts/2026-07-23-chatgpt-health.md"
   }
 ]
