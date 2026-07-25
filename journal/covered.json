@@ -202,5 +202,35 @@
     "title": "Launching Health in ChatGPT",
     "coveredOn": "2026-07-24",
     "post": "posts/2026-07-23-chatgpt-health.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "title": "Introducing Claude Opus 5",
+    "coveredOn": "2026-07-25",
+    "post": "posts/2026-07-24-claude-opus-5.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#july-24-2026",
+    "title": "Claude Opus 5 launch and related API changes",
+    "coveredOn": "2026-07-25",
+    "post": "posts/2026-07-24-claude-opus-5.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/0c18827",
+    "title": "Claude Code v2.1.219",
+    "coveredOn": "2026-07-25",
+    "post": "posts/2026-07-24-claude-code-v2-1-219.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/7ef6eec",
+    "title": "Claude Code v2.1.220",
+    "coveredOn": "2026-07-25",
+    "post": "posts/2026-07-24-claude-code-v2-1-219.md"
+  },
+  {
+    "url": "https://community.openai.com/t/chatgpt-voice-is-now-in-the-desktop-app/1388031",
+    "title": "ChatGPT Voice comes to the desktop app for Work and Codex",
+    "coveredOn": "2026-07-25",
+    "post": "posts/2026-07-23-chatgpt-voice-desktop.md"
   }
 ]
