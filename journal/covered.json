@@ -232,5 +232,17 @@
     "title": "ChatGPT Voice comes to the desktop app for Work and Codex",
     "coveredOn": "2026-07-25",
     "post": "posts/2026-07-23-chatgpt-voice-desktop.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "title": "Our position on open-weights models",
+    "coveredOn": "2026-07-28",
+    "post": "posts/2026-07-28-anthropic-open-weights-position.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/cognizant-anthropic",
+    "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "coveredOn": "2026-07-28",
+    "post": "posts/2026-07-28-cognizant-anthropic-partnership.md"
   }
 ]
