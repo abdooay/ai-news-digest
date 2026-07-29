@@ -244,5 +244,17 @@
     "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
     "coveredOn": "2026-07-28",
     "post": "posts/2026-07-28-cognizant-anthropic-partnership.md"
+  },
+  {
+    "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+    "title": "MCP 2026-07-28 spec: stateless core, coming to Claude",
+    "coveredOn": "2026-07-29",
+    "post": "posts/2026-07-29-claude-mcp-2026-07-28-spec.md"
+  },
+  {
+    "url": "https://community.openai.com/t/openai-student-collective-apply-to-become-a-campus-lead/1388316",
+    "title": "OpenAI Student Collective: Apply to become a Campus Lead",
+    "coveredOn": "2026-07-29",
+    "post": "posts/2026-07-29-openai-student-collective.md"
   }
 ]
