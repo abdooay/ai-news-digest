@@ -256,5 +256,17 @@
     "title": "OpenAI Student Collective: Apply to become a Campus Lead",
     "coveredOn": "2026-07-29",
     "post": "posts/2026-07-29-openai-student-collective.md"
+  },
+  {
+    "url": "https://community.openai.com/t/gpt-live-transcribe-and-gpt-transcribe-two-new-transcription-models-in-the-api/1388318",
+    "title": "GPT-Live-Transcribe and GPT-Transcribe: Two New Transcription Models in the API",
+    "coveredOn": "2026-07-30",
+    "post": "posts/2026-07-30-openai-gpt-transcribe-live-transcribe.md"
+  },
+  {
+    "url": "https://community.openai.com/t/free-frontier-model-access-for-100-000-researchers/1388379",
+    "title": "Free frontier model access for 100,000 researchers (ChatGPT for Academic Researchers)",
+    "coveredOn": "2026-07-30",
+    "post": "posts/2026-07-30-openai-academic-researchers.md"
   }
 ]
