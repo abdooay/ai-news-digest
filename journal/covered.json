@@ -286,5 +286,23 @@
     "title": "SynthID watermarking added to GPT-Live audio",
     "coveredOn": "2026-08-01",
     "post": "posts/2026-08-01-gpt-live-synthid-watermark.md"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "coveredOn": "2026-08-02",
+    "post": "posts/2026-08-02-openai-gpt-5-6-efficiency.md"
+  },
+  {
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "coveredOn": "2026-08-02",
+    "post": "posts/2026-08-02-openai-arc-agi-3-settings.md"
+  },
+  {
+    "url": "https://openai.com/index/scientific-computing-agentic-ai/",
+    "title": "Scientific computing in the age of agentic AI",
+    "coveredOn": "2026-08-02",
+    "post": "posts/2026-08-02-openai-scientific-computing-agents.md"
   }
 ]
