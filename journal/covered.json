@@ -151,7 +151,7 @@
   },
   {
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "coveredOn": "2026-07-22",
     "post": "posts/2026-07-22-openai-board-appointments.md"
   },
@@ -304,5 +304,29 @@
     "title": "Scientific computing in the age of agentic AI",
     "coveredOn": "2026-08-02",
     "post": "posts/2026-08-02-openai-scientific-computing-agents.md"
+  },
+  {
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "coveredOn": "2026-08-03",
+    "post": "posts/2026-08-03-openai-astra-ten-math-proofs.md"
+  },
+  {
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/",
+    "title": "How AI is expanding what people do at work",
+    "coveredOn": "2026-08-03",
+    "post": "posts/2026-08-03-openai-work-at-the-frontier.md"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "coveredOn": "2026-08-03",
+    "post": "posts/2026-07-30-openai-academic-researchers.md"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "coveredOn": "2026-08-03",
+    "post": "posts/2026-07-31-openai-gpt-5-6-price-cuts.md"
   }
 ]
