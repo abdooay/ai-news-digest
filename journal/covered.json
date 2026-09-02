@@ -358,5 +358,89 @@
     "title": "Apple is getting this wrong",
     "coveredOn": "2026-08-04",
     "post": "posts/2026-08-04-openai-apple-lawsuit-response.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "title": "Previewing the Model Hardware Standard",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-08-27-anthropic-model-hardware-standard.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "title": "Expanding our support for scientists",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-08-27-anthropic-support-for-scientists.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#august-27-2026",
+    "title": "Claude API: Files/Skills beta headers dropped, personal and service account keys",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-08-27-claude-api-release-notes.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/cad6304",
+    "title": "Claude Code v2.1.252",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-09-01-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "title": "Improving our alignment and security efforts",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-08-31-anthropic-alignment-security-efforts.md"
+  },
+  {
+    "url": "https://help.openai.com/en/articles/8914046-temporary-chat-faq",
+    "title": "Personalized temporary chats in ChatGPT",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-08-30-openai-chatgpt-updates-roundup.md"
+  },
+  {
+    "url": "https://cryptobriefing.com/openai-removes-dall-e-chatgpt/",
+    "title": "OpenAI retires the DALL-E GPT in ChatGPT",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-08-30-openai-chatgpt-updates-roundup.md"
+  },
+  {
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+    "title": "ChatGPT Ads crosses $1 billion annualized run rate, self-service expands",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-08-31-openai-chatgpt-ads-billion-run-rate.md"
+  },
+  {
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-09-01-claude-fable-mythos-5-1.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-1-2026",
+    "title": "Claude Fable 5.1 and Mythos 5.1 API release notes",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-09-01-claude-fable-mythos-5-1.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "title": "Developing Enterprise Frontier Safeguards with our customers",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-09-01-anthropic-enterprise-frontier-safeguards.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/a1e64dc",
+    "title": "Claude Code v2.1.257",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-09-01-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/aef74af",
+    "title": "Claude Code v2.1.258",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-09-01-claude-code-changelog-roundup.md"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "coveredOn": "2026-09-02",
+    "post": "posts/2026-09-01-openai-chatgpt-health-epic-integration.md"
   }
 ]
