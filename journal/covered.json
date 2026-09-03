@@ -442,5 +442,23 @@
     "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
     "coveredOn": "2026-09-02",
     "post": "posts/2026-09-01-openai-chatgpt-health-epic-integration.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/f173a69",
+    "title": "Claude Code v2.1.259",
+    "coveredOn": "2026-09-03",
+    "post": "posts/2026-09-03-claude-code-v2-1-259.md"
+  },
+  {
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil/",
+    "title": "Expanding OpenAI's presence in Brazil",
+    "coveredOn": "2026-09-03",
+    "post": "posts/2026-09-03-openai-brazil-commercial-operations.md"
+  },
+  {
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/",
+    "title": "OpenAI supports California's bill to advance youth AI safety",
+    "coveredOn": "2026-09-03",
+    "post": "posts/2026-09-03-openai-california-youth-ai-safety-bill.md"
   }
 ]
