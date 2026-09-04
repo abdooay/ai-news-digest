@@ -460,5 +460,17 @@
     "title": "OpenAI supports California's bill to advance youth AI safety",
     "coveredOn": "2026-09-03",
     "post": "posts/2026-09-03-openai-california-youth-ai-safety-bill.md"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "title": "Introducing GPT-6 Astra",
+    "coveredOn": "2026-09-04",
+    "post": "posts/2026-09-04-openai-gpt-6-astra.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/b3f0e50",
+    "title": "Claude Code v2.1.260",
+    "coveredOn": "2026-09-04",
+    "post": "posts/2026-09-04-claude-code-v2-1-260.md"
   }
 ]
