@@ -472,5 +472,17 @@
     "title": "Claude Code v2.1.260",
     "coveredOn": "2026-09-04",
     "post": "posts/2026-09-04-claude-code-v2-1-260.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/d7dbd9a",
+    "title": "Claude Code v2.1.261",
+    "coveredOn": "2026-09-05",
+    "post": "posts/2026-09-05-claude-code-v2-1-261.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-3-2026",
+    "title": "ant apply: manage Claude API resources as files",
+    "coveredOn": "2026-09-05",
+    "post": "posts/2026-09-05-claude-ant-apply-cli.md"
   }
 ]
