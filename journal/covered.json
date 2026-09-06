@@ -484,5 +484,41 @@
     "title": "ant apply: manage Claude API resources as files",
     "coveredOn": "2026-09-05",
     "post": "posts/2026-09-05-claude-ant-apply-cli.md"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders/",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "coveredOn": "2026-09-06",
+    "post": "posts/2026-09-06-openai-daybreak-frontline-defenders.md"
+  },
+  {
+    "url": "https://openai.com/index/path-to-astra/",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "coveredOn": "2026-09-06",
+    "post": "posts/2026-09-06-gpt-6-astra-safety.md"
+  },
+  {
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra/",
+    "title": "Safety overview: GPT-6 Astra",
+    "coveredOn": "2026-09-06",
+    "post": "posts/2026-09-06-gpt-6-astra-safety.md"
+  },
+  {
+    "url": "https://deploymentsafety.openai.com/gpt-6-astra",
+    "title": "GPT-6 Astra system card",
+    "coveredOn": "2026-09-06",
+    "post": "posts/2026-09-06-gpt-6-astra-safety.md"
+  },
+  {
+    "url": "https://openai.com/index/ai-native-company-workflows/",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "coveredOn": "2026-09-06",
+    "post": "posts/2026-09-06-openai-ai-native-workflows.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/ab9b2cf",
+    "title": "Claude Code v2.1.263",
+    "coveredOn": "2026-09-06",
+    "post": "posts/2026-09-06-claude-code-v2-1-263.md"
   }
 ]
