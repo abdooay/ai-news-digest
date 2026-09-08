@@ -520,5 +520,47 @@
     "title": "Claude Code v2.1.263",
     "coveredOn": "2026-09-06",
     "post": "posts/2026-09-06-claude-code-v2-1-263.md"
+  },
+  {
+    "url": "https://openai.com/index/an-alien-mind",
+    "title": "An Alien Mind",
+    "coveredOn": "2026-09-08",
+    "post": "posts/2026-09-08-openai-alien-mind-alignment-essay.md"
+  },
+  {
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "title": "Research acceleration: The view inside OpenAI",
+    "coveredOn": "2026-09-08",
+    "post": "posts/2026-09-08-openai-research-acceleration-agents.md"
+  },
+  {
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "title": "Supporting independent journalism in Ukraine",
+    "coveredOn": "2026-09-08",
+    "post": "posts/2026-09-08-openai-ukraine-journalism-support.md"
+  },
+  {
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "coveredOn": "2026-09-08",
+    "post": "posts/2026-09-08-openai-customer-case-studies-roundup.md"
+  },
+  {
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "coveredOn": "2026-09-08",
+    "post": "posts/2026-09-08-openai-customer-case-studies-roundup.md"
+  },
+  {
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "coveredOn": "2026-09-08",
+    "post": "posts/2026-09-08-openai-customer-case-studies-roundup.md"
+  },
+  {
+    "url": "https://openai.com/index/gilbert-tobin",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "coveredOn": "2026-09-08",
+    "post": "posts/2026-09-08-openai-customer-case-studies-roundup.md"
   }
 ]
