@@ -562,5 +562,53 @@
     "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
     "coveredOn": "2026-09-08",
     "post": "posts/2026-09-08-openai-customer-case-studies-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/8e02f6d",
+    "title": "Claude Code v2.1.265 changelog",
+    "coveredOn": "2026-09-09",
+    "post": "posts/2026-09-09-claude-code-v2-1-265-266.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/347b38e",
+    "title": "Claude Code v2.1.266 changelog",
+    "coveredOn": "2026-09-09",
+    "post": "posts/2026-09-09-claude-code-v2-1-265-266.md"
+  },
+  {
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "title": "An OpenAI model proposes a solution to the Navier–Stokes problem",
+    "coveredOn": "2026-09-09",
+    "post": "posts/2026-09-09-openai-navier-stokes-solution.md"
+  },
+  {
+    "url": "https://openai.com/index/the-work-now-within-reach/",
+    "title": "The Work Now Within Reach",
+    "coveredOn": "2026-09-09",
+    "post": "posts/2026-09-09-openai-work-now-within-reach.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "title": "Introducing ChatGPT Images 2.5",
+    "coveredOn": "2026-09-09",
+    "post": "posts/2026-09-09-openai-chatgpt-images-2-5.md"
+  },
+  {
+    "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "coveredOn": "2026-09-09",
+    "post": "posts/2026-09-09-openai-quantum-computing-codex.md"
+  },
+  {
+    "url": "https://openai.com/index/teen-development-research-grants/",
+    "title": "Funding grants for new research into AI and teen development",
+    "coveredOn": "2026-09-09",
+    "post": "posts/2026-09-09-openai-teen-development-grants.md"
+  },
+  {
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms/",
+    "title": "Supporting journalism from classrooms to newsrooms",
+    "coveredOn": "2026-09-09",
+    "post": "posts/2026-09-09-openai-journalism-education-support.md"
   }
 ]
