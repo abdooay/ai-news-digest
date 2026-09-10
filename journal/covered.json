@@ -610,5 +610,23 @@
     "title": "Supporting journalism from classrooms to newsrooms",
     "coveredOn": "2026-09-09",
     "post": "posts/2026-09-09-openai-journalism-education-support.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/9cdc2a4",
+    "title": "Claude Code v2.1.267",
+    "coveredOn": "2026-09-10",
+    "post": "posts/2026-09-10-claude-code-v2-1-267.md"
+  },
+  {
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board/",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "coveredOn": "2026-09-10",
+    "post": "posts/2026-09-10-openai-paul-christiano-foundation-board.md"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work/",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "coveredOn": "2026-09-10",
+    "post": "posts/2026-09-10-openai-gpt-6-astra-enterprise-rollout.md"
   }
 ]
