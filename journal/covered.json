@@ -628,5 +628,65 @@
     "title": "GPT-6 Astra: The next generation in intelligence for work",
     "coveredOn": "2026-09-10",
     "post": "posts/2026-09-10-openai-gpt-6-astra-enterprise-rollout.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/536a2e2",
+    "title": "Claude Code v2.1.268",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-claude-code-v2-1-268.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-10-2026",
+    "title": "Claude Managed Agents auto permission policy and ant beta:sessions connect",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-claude-api-release-notes.md"
+  },
+  {
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-anthropic-threat-intelligence-september-2026.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-agents-api/",
+    "title": "Introducing the Agents API",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-openai-agents-api.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "title": "Build more natural voice experiences with GPT-Live-1 in the API",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-openai-gpt-live-1-api.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services/",
+    "title": "Introducing ChatGPT for Financial Services",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-openai-chatgpt-financial-services.md"
+  },
+  {
+    "url": "https://openai.com/index/put-data-to-work/",
+    "title": "Now everyone can put data to work",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-openai-data-agent.md"
+  },
+  {
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-openai-antimicrobial-case-study.md"
+  },
+  {
+    "url": "https://openai.com/index/ai-policy-window/",
+    "title": "The AI policy window is open. We need to act.",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-openai-policy-government-roundup.md"
+  },
+  {
+    "url": "https://openai.com/index/expanding-ai-access-us-government/",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "coveredOn": "2026-09-11",
+    "post": "posts/2026-09-11-openai-policy-government-roundup.md"
   }
 ]
