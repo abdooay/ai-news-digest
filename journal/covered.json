@@ -688,5 +688,17 @@
     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
     "coveredOn": "2026-09-11",
     "post": "posts/2026-09-11-openai-policy-government-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2129",
+    "title": "Claude Code v2.1.269",
+    "coveredOn": "2026-09-12",
+    "post": "posts/2026-09-12-claude-code-v2-1-269.md"
+  },
+  {
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "coveredOn": "2026-09-12",
+    "post": "posts/2026-09-12-openai-habitat-storage-scaling.md"
   }
 ]
