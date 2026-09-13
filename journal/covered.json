@@ -700,5 +700,11 @@
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "coveredOn": "2026-09-12",
     "post": "posts/2026-09-12-openai-habitat-storage-scaling.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/2b40e76",
+    "title": "Claude Code v2.1.270",
+    "coveredOn": "2026-09-13",
+    "post": "posts/2026-09-13-claude-code-v2-1-270.md"
   }
 ]
