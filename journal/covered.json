@@ -706,5 +706,17 @@
     "title": "Claude Code v2.1.270",
     "coveredOn": "2026-09-13",
     "post": "posts/2026-09-13-claude-code-v2-1-270.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/f2ccbe2",
+    "title": "Claude Code v2.1.271",
+    "coveredOn": "2026-09-15",
+    "post": "posts/2026-09-15-claude-code-v2-1-271-272.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/f96c3b4",
+    "title": "Claude Code v2.1.272",
+    "coveredOn": "2026-09-15",
+    "post": "posts/2026-09-15-claude-code-v2-1-271-272.md"
   }
 ]
