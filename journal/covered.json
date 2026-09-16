@@ -718,5 +718,17 @@
     "title": "Claude Code v2.1.272",
     "coveredOn": "2026-09-15",
     "post": "posts/2026-09-15-claude-code-v2-1-271-272.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/aad35ba",
+    "title": "Claude Code v2.1.273",
+    "coveredOn": "2026-09-16",
+    "post": "posts/2026-09-16-claude-code-v2-1-273.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-14-2026",
+    "title": "Claude API: on-demand compaction with the compaction parameter",
+    "coveredOn": "2026-09-16",
+    "post": "posts/2026-09-16-claude-api-on-demand-compaction.md"
   }
 ]
