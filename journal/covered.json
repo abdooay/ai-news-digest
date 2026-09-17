@@ -730,5 +730,17 @@
     "title": "Claude API: on-demand compaction with the compaction parameter",
     "coveredOn": "2026-09-16",
     "post": "posts/2026-09-16-claude-api-on-demand-compaction.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/68ac8bb",
+    "title": "Claude Code v2.1.274",
+    "coveredOn": "2026-09-17",
+    "post": "posts/2026-09-17-claude-code-v2-1-274.md"
+  },
+  {
+    "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+    "title": "OpenAI tests Sponsored Agents in ChatGPT",
+    "coveredOn": "2026-09-17",
+    "post": "posts/2026-09-17-openai-sponsored-agents-chatgpt.md"
   }
 ]
