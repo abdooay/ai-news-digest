@@ -742,5 +742,53 @@
     "title": "OpenAI tests Sponsored Agents in ChatGPT",
     "coveredOn": "2026-09-17",
     "post": "posts/2026-09-17-openai-sponsored-agents-chatgpt.md"
+  },
+  {
+    "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "title": "Measurements for understanding the pace of AI development inside frontier labs",
+    "coveredOn": "2026-09-18",
+    "post": "posts/2026-09-18-anthropic-ai-development-pace-measurements.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "title": "Introducing the Life Sciences Verification Program",
+    "coveredOn": "2026-09-18",
+    "post": "posts/2026-09-18-anthropic-life-sciences-verification-program.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/3803596",
+    "title": "Claude Code v2.1.275",
+    "coveredOn": "2026-09-18",
+    "post": "posts/2026-09-18-claude-code-v2-1-275-276.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/31a3b00",
+    "title": "Claude Code v2.1.276",
+    "coveredOn": "2026-09-18",
+    "post": "posts/2026-09-18-claude-code-v2-1-275-276.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-18-2026",
+    "title": "Compliance API: Claude in Chrome session transcripts (beta)",
+    "coveredOn": "2026-09-18",
+    "post": "posts/2026-09-18-claude-compliance-api-chrome-sessions.md"
+  },
+  {
+    "url": "https://openai.com/index/astra-for-law/",
+    "title": "Introducing Astra for Law",
+    "coveredOn": "2026-09-18",
+    "post": "posts/2026-09-18-openai-astra-for-law.md"
+  },
+  {
+    "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+    "title": "Our framework for reporting model misalignment",
+    "coveredOn": "2026-09-18",
+    "post": "posts/2026-09-18-openai-misalignment-reporting-framework.md"
+  },
+  {
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value/",
+    "title": "How to connect AI usage to business value",
+    "coveredOn": "2026-09-18",
+    "post": "posts/2026-09-18-openai-ai-usage-business-value.md"
   }
 ]
