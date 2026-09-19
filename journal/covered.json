@@ -790,5 +790,65 @@
     "title": "How to connect AI usage to business value",
     "coveredOn": "2026-09-18",
     "post": "posts/2026-09-18-openai-ai-usage-business-value.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "title": "Partnering with Accenture on embedded evaluation",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-anthropic-accenture-embedded-evaluation.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/ca02e7d",
+    "title": "Claude Code v2.1.277",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-claude-code-v2-1-277-278.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/bf7d404",
+    "title": "Claude Code v2.1.278",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-claude-code-v2-1-277-278.md"
+  },
+  {
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-openai-australian-youth-safety-blueprint.md"
+  },
+  {
+    "url": "https://openai.com/index/cooley-gopublic",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-openai-cooley-go-public.md"
+  },
+  {
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "title": "Helping older adults use AI in everyday life",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-openai-older-adults-ai-skills-jam.md"
+  },
+  {
+    "url": "https://openai.com/index/hex-gpt-6-astra",
+    "title": "Hex turns complex analysis into visual reports with GPT-6 Astra",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-openai-hex-gpt-6-astra.md"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "title": "How workers are unlocking new ways of working",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-openai-cross-occupation-ai-use-research.md"
+  },
+  {
+    "url": "https://openai.com/index/fyxer",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-openai-fyxer-ai-executive-assistant.md"
+  },
+  {
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "coveredOn": "2026-09-19",
+    "post": "posts/2026-09-19-openai-perplexity-gpt-6-astra.md"
   }
 ]
