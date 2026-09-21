@@ -850,5 +850,11 @@
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "coveredOn": "2026-09-19",
     "post": "posts/2026-09-19-openai-perplexity-gpt-6-astra.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#2026-09-15-api-key-governance",
+    "title": "API key creation governance controls",
+    "coveredOn": "2026-09-21",
+    "post": "posts/2026-09-21-openai-api-key-governance-controls.md"
   }
 ]
