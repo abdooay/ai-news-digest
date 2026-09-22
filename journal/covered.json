@@ -577,7 +577,7 @@
   },
   {
     "url": "https://openai.com/index/navier-stokes-solution/",
-    "title": "An OpenAI model proposes a solution to the Navier–Stokes problem",
+    "title": "An OpenAI model proposes a solution to the Navier\u2013Stokes problem",
     "coveredOn": "2026-09-09",
     "post": "posts/2026-09-09-openai-navier-stokes-solution.md"
   },
@@ -856,5 +856,11 @@
     "title": "API key creation governance controls",
     "coveredOn": "2026-09-21",
     "post": "posts/2026-09-21-openai-api-key-governance-controls.md"
+  },
+  {
+    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+    "title": "How Claude is uplifting biomolecular modeling",
+    "coveredOn": "2026-09-22",
+    "post": "posts/2026-09-22-claude-biomolecular-modeling-speedup.md"
   }
 ]
