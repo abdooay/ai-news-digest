@@ -940,5 +940,11 @@
     "title": "Airbnb expands access to GPT-6 Astra",
     "coveredOn": "2026-09-24",
     "post": "posts/2026-09-24-openai-airbnb-gpt-6-astra.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21282",
+    "title": "Claude Code v2.1.282",
+    "coveredOn": "2026-09-25",
+    "post": "posts/2026-09-25-claude-code-v2-1-282.md"
   }
 ]
