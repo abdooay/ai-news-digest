@@ -946,5 +946,17 @@
     "title": "Claude Code v2.1.282",
     "coveredOn": "2026-09-25",
     "post": "posts/2026-09-25-claude-code-v2-1-282.md"
+  },
+  {
+    "url": "https://www.anthropic.com/features/ebola-response",
+    "title": "The Situation Report: Claude in the Bundibugyo Ebola response",
+    "coveredOn": "2026-09-26",
+    "post": "posts/2026-09-26-claude-ebola-response-drc.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21283",
+    "title": "Claude Code v2.1.283",
+    "coveredOn": "2026-09-26",
+    "post": "posts/2026-09-26-claude-code-v2-1-283.md"
   }
 ]
