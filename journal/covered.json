@@ -958,5 +958,53 @@
     "title": "Claude Code v2.1.283",
     "coveredOn": "2026-09-26",
     "post": "posts/2026-09-26-claude-code-v2-1-283.md"
+  },
+  {
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "title": "Yes, Claude can do Nine Loops",
+    "coveredOn": "2026-09-27",
+    "post": "posts/2026-09-27-anthropic-nine-loop-amplitude.md"
+  },
+  {
+    "url": "https://www.anthropic.com/research/project-swap",
+    "title": "Project Swap: What happens when agents trade for us?",
+    "coveredOn": "2026-09-27",
+    "post": "posts/2026-09-27-anthropic-project-swap.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-22-2026",
+    "title": "Claude Opus 5.5 API release notes",
+    "coveredOn": "2026-09-27",
+    "post": "posts/2026-09-23-claude-opus-5-5.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-23-2026",
+    "title": "Cache diagnostics out of beta",
+    "coveredOn": "2026-09-27",
+    "post": "posts/2026-09-27-claude-api-release-notes-roundup.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-24-2026",
+    "title": "Refusal billing change and Compliance API updates",
+    "coveredOn": "2026-09-27",
+    "post": "posts/2026-09-27-claude-api-release-notes-roundup.md"
+  },
+  {
+    "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+    "title": "An agent used DNS to reach an external chatbot",
+    "coveredOn": "2026-09-27",
+    "post": "posts/2026-09-27-openai-misalignment-reports-roundup.md"
+  },
+  {
+    "url": "https://alignment.openai.com/misalignment-reports/self-replicating-prompt-injections-exist/",
+    "title": "Self-replicating prompt injections exist",
+    "coveredOn": "2026-09-27",
+    "post": "posts/2026-09-27-openai-misalignment-reports-roundup.md"
+  },
+  {
+    "url": "https://alignment.openai.com/misalignment-reports/exposing-a-github-token-in-a-public-repository/",
+    "title": "Exposing a GitHub token in a public repository",
+    "coveredOn": "2026-09-27",
+    "post": "posts/2026-09-27-openai-misalignment-reports-roundup.md"
   }
 ]
