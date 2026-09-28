@@ -1006,5 +1006,11 @@
     "title": "Exposing a GitHub token in a public repository",
     "coveredOn": "2026-09-27",
     "post": "posts/2026-09-27-openai-misalignment-reports-roundup.md"
+  },
+  {
+    "url": "https://openai.com/index/building-standards-next-phase-ai/",
+    "title": "Building standards for the next phase of AI",
+    "coveredOn": "2026-09-28",
+    "post": "posts/2026-09-28-openai-global-ai-safety-standards.md"
   }
 ]
