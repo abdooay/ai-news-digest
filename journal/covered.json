@@ -1012,5 +1012,35 @@
     "title": "Building standards for the next phase of AI",
     "coveredOn": "2026-09-28",
     "post": "posts/2026-09-28-openai-global-ai-safety-standards.md"
+  },
+  {
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "title": "Introducing Claude Sonnet 5.5",
+    "coveredOn": "2026-09-29",
+    "post": "posts/2026-09-29-claude-sonnet-5-5.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-28-2026",
+    "title": "Claude Sonnet 5.5 API release notes",
+    "coveredOn": "2026-09-29",
+    "post": "posts/2026-09-29-claude-sonnet-5-5.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21284",
+    "title": "Claude Code v2.1.284",
+    "coveredOn": "2026-09-29",
+    "post": "posts/2026-09-29-claude-code-v2-1-284.md"
+  },
+  {
+    "url": "https://community.openai.com/t/openai-devday-is-going-global/1391106",
+    "title": "OpenAI DevDay is going global",
+    "coveredOn": "2026-09-29",
+    "post": "posts/2026-09-29-openai-devday-exchange-and-fixes.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#2026-09-25-image-encoding-fix",
+    "title": "Fixed image encoding bug in GPT-6 Sol and Luna",
+    "coveredOn": "2026-09-29",
+    "post": "posts/2026-09-29-openai-devday-exchange-and-fixes.md"
   }
 ]
