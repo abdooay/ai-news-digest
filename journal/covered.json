@@ -1042,5 +1042,23 @@
     "title": "Fixed image encoding bug in GPT-6 Sol and Luna",
     "coveredOn": "2026-09-29",
     "post": "posts/2026-09-29-openai-devday-exchange-and-fixes.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21285",
+    "title": "Claude Code v2.1.285",
+    "coveredOn": "2026-09-30",
+    "post": "posts/2026-09-30-claude-code-v2-1-285.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#2026-09-29-devday",
+    "title": "DevDay 2026: GPT-6.1 Sol and computer use added to the Agents API",
+    "coveredOn": "2026-09-30",
+    "post": "posts/2026-09-30-openai-devday-2026-roundup.md"
+  },
+  {
+    "url": "https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006",
+    "title": "DevDay 2026 announcements and developer resources",
+    "coveredOn": "2026-09-30",
+    "post": "posts/2026-09-30-openai-devday-2026-roundup.md"
   }
 ]
