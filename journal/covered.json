@@ -1060,5 +1060,17 @@
     "title": "DevDay 2026 announcements and developer resources",
     "coveredOn": "2026-09-30",
     "post": "posts/2026-09-30-openai-devday-2026-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21286",
+    "title": "Claude Code v2.1.286",
+    "coveredOn": "2026-10-01",
+    "post": "posts/2026-10-01-claude-code-v2-1-286.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#september-30-2026",
+    "title": "Claude Sonnet 4.5 deprecation, retiring November 30, 2026",
+    "coveredOn": "2026-10-01",
+    "post": "posts/2026-10-01-claude-sonnet-4-5-deprecation.md"
   }
 ]
