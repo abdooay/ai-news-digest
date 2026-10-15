@@ -1072,5 +1072,101 @@
     "title": "Claude Sonnet 4.5 deprecation, retiring November 30, 2026",
     "coveredOn": "2026-10-01",
     "post": "posts/2026-10-01-claude-sonnet-4-5-deprecation.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "title": "Introducing the Anthropic Cyber Mission",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-anthropic-cyber-mission.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+    "title": "2026 Usage Policy update",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-anthropic-usage-policy-update.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+    "title": "Building on our commitment to American scientific discovery",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-anthropic-genesis-mission-commitment.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/2026-us-midterms",
+    "title": "Preparing for the 2026 US midterms",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-anthropic-2026-us-midterms-prep.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/singapore-office-opening",
+    "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-anthropic-singapore-office.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21294",
+    "title": "Claude Code v2.1.294",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-claude-code-changelog-roundup-294-296.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21295",
+    "title": "Claude Code v2.1.295",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-claude-code-changelog-roundup-294-296.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21296",
+    "title": "Claude Code v2.1.296",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-claude-code-changelog-roundup-294-296.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21299",
+    "title": "Claude Code v2.1.299",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-claude-code-changelog-roundup-299-300.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21300",
+    "title": "Claude Code v2.1.300",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-claude-code-changelog-roundup-299-300.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#october-14-2026",
+    "title": "OpenTelemetry export (beta) and Managed Agents scheduled deployments on AWS",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-claude-api-release-notes-roundup.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#october-9-2026",
+    "title": "Claude Managed Agents dynamic workflows (beta)",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-claude-api-release-notes-roundup.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#october-8-2026",
+    "title": "Compliance API: unified Claude chats and Claude Docs Word downloads (beta)",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-claude-api-release-notes-roundup.md"
+  },
+  {
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+    "title": "Disrupting AI-enabled \"false front\" operations",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-openai-false-front-operations.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#2026-10-08-ultrafast-mode",
+    "title": "Ultrafast mode for GPT-6.1 Sol in the Responses API",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-openai-platform-updates-roundup.md"
+  },
+  {
+    "url": "https://developers.openai.com/docs/deprecations#gpt-4-series-2027-01-14",
+    "title": "GPT-4o, GPT-4o mini, GPT-4.1, GPT-4.1 mini retiring January 14, 2027",
+    "coveredOn": "2026-10-15",
+    "post": "posts/2026-10-15-openai-platform-updates-roundup.md"
   }
 ]
