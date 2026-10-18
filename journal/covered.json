@@ -1204,5 +1204,17 @@
     "title": "Prompt-to-voice and nine new GPT-Live voices",
     "coveredOn": "2026-10-17",
     "post": "posts/2026-10-17-openai-prompt-to-voice.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan/",
+    "title": "Introducing the Rosalind Academic Plan",
+    "coveredOn": "2026-10-18",
+    "post": "posts/2026-10-18-openai-rosalind-academic-plan.md"
+  },
+  {
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions/",
+    "title": "Teaching students to think and learn through questions",
+    "coveredOn": "2026-10-18",
+    "post": "posts/2026-10-18-openai-study-mode-educators.md"
   }
 ]
