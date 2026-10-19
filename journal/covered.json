@@ -1216,5 +1216,17 @@
     "title": "Teaching students to think and learn through questions",
     "coveredOn": "2026-10-18",
     "post": "posts/2026-10-18-openai-study-mode-educators.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "title": "Investing in the public benefit",
+    "coveredOn": "2026-10-19",
+    "post": "posts/2026-10-19-anthropic-public-benefit-fund.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21303",
+    "title": "Claude Code v2.1.303",
+    "coveredOn": "2026-10-19",
+    "post": "posts/2026-10-19-claude-code-v2-1-303.md"
   }
 ]
