@@ -1228,5 +1228,11 @@
     "title": "Claude Code v2.1.303",
     "coveredOn": "2026-10-19",
     "post": "posts/2026-10-19-claude-code-v2-1-303.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21304",
+    "title": "Claude Code v2.1.304",
+    "coveredOn": "2026-10-20",
+    "post": "posts/2026-10-20-claude-code-v2-1-304.md"
   }
 ]
