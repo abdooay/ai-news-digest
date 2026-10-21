@@ -1234,5 +1234,35 @@
     "title": "Claude Code v2.1.304",
     "coveredOn": "2026-10-20",
     "post": "posts/2026-10-20-claude-code-v2-1-304.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21305",
+    "title": "Claude Code v2.1.305",
+    "coveredOn": "2026-10-21",
+    "post": "posts/2026-10-21-claude-code-changelog-roundup-305-306.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21306",
+    "title": "Claude Code v2.1.306",
+    "coveredOn": "2026-10-21",
+    "post": "posts/2026-10-21-claude-code-changelog-roundup-305-306.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#october-20-2026",
+    "title": "Inference hooks GA, user profiles, organization webhooks",
+    "coveredOn": "2026-10-21",
+    "post": "posts/2026-10-21-claude-api-release-notes-roundup.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#2026-10-20-prompt-caching",
+    "title": "12-hour prompt caching",
+    "coveredOn": "2026-10-21",
+    "post": "posts/2026-10-21-openai-api-changelog-roundup.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#2026-10-16-agents-sandbox-skills",
+    "title": "Agents API hosted sandboxes get Artifact SDK and skills, Ultrafast mode",
+    "coveredOn": "2026-10-21",
+    "post": "posts/2026-10-21-openai-api-changelog-roundup.md"
   }
 ]
