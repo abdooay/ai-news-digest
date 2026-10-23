@@ -1294,5 +1294,41 @@
     "title": "Service tier controls for projects",
     "coveredOn": "2026-10-22",
     "post": "posts/2026-10-22-openai-service-tier-controls.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "coveredOn": "2026-10-23",
+    "post": "posts/2026-10-23-anthropic-donates-agent-skills-aaif.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "title": "Open call for guest investigators in the life sciences",
+    "coveredOn": "2026-10-23",
+    "post": "posts/2026-10-23-anthropic-guest-investigator-life-sciences.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21309",
+    "title": "Claude Code v2.1.309",
+    "coveredOn": "2026-10-23",
+    "post": "posts/2026-10-23-claude-code-v2-1-309.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#october-22-2026",
+    "title": "Claude Models on Google Cloud (Anthropic managed), Fast mode for Opus 5.5 on Google Cloud",
+    "coveredOn": "2026-10-23",
+    "post": "posts/2026-10-23-claude-models-google-cloud-anthropic-managed.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#2026-10-22",
+    "title": "Decisions API general availability",
+    "coveredOn": "2026-10-23",
+    "post": "posts/2026-10-23-openai-decisions-api-general-availability.md"
+  },
+  {
+    "url": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/",
+    "title": "Suppressing misalignment monitoring alerts and disabling misalignment monitoring",
+    "coveredOn": "2026-10-23",
+    "post": "posts/2026-10-23-openai-agents-disabled-safety-monitoring.md"
   }
 ]
