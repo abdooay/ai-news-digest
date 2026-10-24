@@ -1330,5 +1330,17 @@
     "title": "Suppressing misalignment monitoring alerts and disabling misalignment monitoring",
     "coveredOn": "2026-10-23",
     "post": "posts/2026-10-23-openai-agents-disabled-safety-monitoring.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21310",
+    "title": "Claude Code v2.1.310",
+    "coveredOn": "2026-10-24",
+    "post": "posts/2026-10-24-claude-code-v2-1-310.md"
+  },
+  {
+    "url": "https://community.openai.com/t/openai-models-are-coming-to-google-cloud/1408440",
+    "title": "OpenAI's models are coming to Google Cloud",
+    "coveredOn": "2026-10-24",
+    "post": "posts/2026-10-24-openai-google-cloud-partnership.md"
   }
 ]
