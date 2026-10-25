@@ -1342,5 +1342,29 @@
     "title": "OpenAI's models are coming to Google Cloud",
     "coveredOn": "2026-10-24",
     "post": "posts/2026-10-24-openai-google-cloud-partnership.md"
+  },
+  {
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+    "title": "Securing our frontier model training environment",
+    "coveredOn": "2026-10-25",
+    "post": "posts/2026-10-25-openai-frontier-training-security.md"
+  },
+  {
+    "url": "https://openai.com/index/low-resource-programming-languages/",
+    "title": "Advancing coding in low-resource programming languages",
+    "coveredOn": "2026-10-25",
+    "post": "posts/2026-10-25-openai-low-resource-languages-coding.md"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
+    "title": "OpenAI acquires Orchestra Bio",
+    "coveredOn": "2026-10-25",
+    "post": "posts/2026-10-25-openai-business-roundup.md"
+  },
+  {
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/10/21/openai-expands-chatgpt-ads-to-26-more-countries-in-bid-to-boost-revenue",
+    "title": "OpenAI expands ChatGPT ads to 26 more countries, 89 total",
+    "coveredOn": "2026-10-25",
+    "post": "posts/2026-10-25-openai-business-roundup.md"
   }
 ]
