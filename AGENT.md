@@ -11,7 +11,14 @@ Fetch each source below. Collect items published in the **last 7 days** only.
 - Claude Code changelog: https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
 - Claude platform / API release notes: search the Claude docs (use the claude-docs
   MCP tools if attached, otherwise WebSearch for "Claude API release notes")
-- OpenAI news: https://openai.com/news/
+- OpenAI news: https://openai.com/news/ — if this returns 403/blocked (it has
+  been returning 403 Forbidden to WebFetch and curl as of 2026-10-28, likely
+  bot protection), use the official OpenAI Announcements forum category
+  instead: https://community.openai.com/c/announcements/6.json (a Discourse
+  JSON API; fetch with curl, not WebFetch, and read `topic_list.topics` for
+  recent titles/dates/slugs, then build each topic URL as
+  `https://community.openai.com/t/<slug>/<id>` and fetch `<that URL>.json`
+  for the full post body under `post_stream.posts[0].cooked`, an HTML string).
 
 If a URL returns 404 or is blocked, find the current location with WebSearch,
 use it, and update this file with the corrected URL in the same commit.

@@ -1390,5 +1390,29 @@
     "title": "GPT-6.1 Terra released",
     "coveredOn": "2026-10-27",
     "post": "posts/2026-10-27-openai-gpt-6-1-terra.md"
+  },
+  {
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "title": "Early progress on accelerating drug development with Claude",
+    "coveredOn": "2026-10-28",
+    "post": "posts/2026-10-28-anthropic-drug-development-results.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "coveredOn": "2026-10-28",
+    "post": "posts/2026-10-28-anthropic-gsa-partnership-expansion.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21312",
+    "title": "Claude Code v2.1.312",
+    "coveredOn": "2026-10-28",
+    "post": "posts/2026-10-28-claude-code-v2-1-312.md"
+  },
+  {
+    "url": "https://community.openai.com/t/gpt-6-1-terra-delivering-fast-and-capable-computer-use-at-a-lower-price/1409900",
+    "title": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price",
+    "coveredOn": "2026-10-28",
+    "post": "posts/2026-10-27-openai-gpt-6-1-terra.md"
   }
 ]
