@@ -1414,5 +1414,17 @@
     "title": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price",
     "coveredOn": "2026-10-28",
     "post": "posts/2026-10-27-openai-gpt-6-1-terra.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "title": "AI for Science expands to foundations and research institutions",
+    "coveredOn": "2026-10-29",
+    "post": "posts/2026-10-29-ai-for-science-expands.md"
+  },
+  {
+    "url": "https://community.openai.com/t/claim-up-to-500-in-api-credits-using-your-chatgpt-pro-or-business-subscription/1410579",
+    "title": "Claim up to $500 in API credits using your ChatGPT Pro or Business subscription",
+    "coveredOn": "2026-10-29",
+    "post": "posts/2026-10-29-openai-api-credits-chatgpt-subscribers.md"
   }
 ]
