@@ -1426,5 +1426,23 @@
     "title": "Claim up to $500 in API credits using your ChatGPT Pro or Business subscription",
     "coveredOn": "2026-10-29",
     "post": "posts/2026-10-29-openai-api-credits-chatgpt-subscribers.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21314",
+    "title": "Claude Code v2.1.314",
+    "coveredOn": "2026-10-30",
+    "post": "posts/2026-10-30-claude-code-v2-1-314.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#october-28-2026",
+    "title": "Claude API max request size raised from 32 MB to 128 MB",
+    "coveredOn": "2026-10-30",
+    "post": "posts/2026-10-30-claude-api-roundup.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#october-29-2026",
+    "title": "Usage and Cost Analytics API launched in beta",
+    "coveredOn": "2026-10-30",
+    "post": "posts/2026-10-30-claude-api-roundup.md"
   }
 ]
