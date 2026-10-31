@@ -1444,5 +1444,17 @@
     "title": "Usage and Cost Analytics API launched in beta",
     "coveredOn": "2026-10-30",
     "post": "posts/2026-10-30-claude-api-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21316",
+    "title": "Claude Code v2.1.316",
+    "coveredOn": "2026-10-31",
+    "post": "posts/2026-10-31-claude-code-v2-1-316.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#october-30-2026",
+    "title": "Fast mode deprecated for Claude Opus 4.8",
+    "coveredOn": "2026-10-31",
+    "post": "posts/2026-10-31-claude-code-v2-1-316.md"
   }
 ]
