@@ -1456,5 +1456,11 @@
     "title": "Fast mode deprecated for Claude Opus 4.8",
     "coveredOn": "2026-10-31",
     "post": "posts/2026-10-31-claude-code-v2-1-316.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#october-30-2026",
+    "title": "GPT-6 Rosalind released for life sciences research",
+    "coveredOn": "2026-11-01",
+    "post": "posts/2026-11-01-openai-gpt-6-rosalind.md"
   }
 ]
