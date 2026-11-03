@@ -1462,5 +1462,17 @@
     "title": "GPT-6 Rosalind released for life sciences research",
     "coveredOn": "2026-11-01",
     "post": "posts/2026-11-01-openai-gpt-6-rosalind.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21317",
+    "title": "Claude Code v2.1.317",
+    "coveredOn": "2026-11-03",
+    "post": "posts/2026-11-03-claude-code-v2-1-317.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/api#november-2-2026",
+    "title": "Message threads (beta) added to the Claude API",
+    "coveredOn": "2026-11-03",
+    "post": "posts/2026-11-03-claude-api-message-threads.md"
   }
 ]
