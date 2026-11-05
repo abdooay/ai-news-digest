@@ -1486,5 +1486,11 @@
     "title": "Text watermark expanded to Claude Mythos 5, Opus 4.7, and Sonnet 4.6",
     "coveredOn": "2026-11-04",
     "post": "posts/2026-11-04-claude-text-watermark-expands.md"
+  },
+  {
+    "url": "https://community.openai.com/t/images-upgraded-introducing-chatgpt-images-2-6/1412901",
+    "title": "ChatGPT Images 2.6 and GPT-Image-2.6 Flare/Sunburst",
+    "coveredOn": "2026-11-05",
+    "post": "posts/2026-11-05-openai-chatgpt-images-2-6.md"
   }
 ]
