@@ -1492,5 +1492,17 @@
     "title": "ChatGPT Images 2.6 and GPT-Image-2.6 Flare/Sunburst",
     "coveredOn": "2026-11-05",
     "post": "posts/2026-11-05-openai-chatgpt-images-2-6.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/manage-claude/ip-allowlist",
+    "title": "IP allowlisting for organizations (beta)",
+    "coveredOn": "2026-11-06",
+    "post": "posts/2026-11-05-claude-ip-allowlisting.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/manage-claude/user-management#sign-a-member-out-everywhere",
+    "title": "Sign a member out everywhere (beta)",
+    "coveredOn": "2026-11-06",
+    "post": "posts/2026-11-05-claude-sign-out-everywhere.md"
   }
 ]
