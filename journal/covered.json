@@ -1504,5 +1504,29 @@
     "title": "Sign a member out everywhere (beta)",
     "coveredOn": "2026-11-06",
     "post": "posts/2026-11-05-claude-sign-out-everywhere.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21319",
+    "title": "Claude Code v2.1.319",
+    "coveredOn": "2026-11-07",
+    "post": "posts/2026-11-07-claude-code-v2-1-319.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#november-5-2026",
+    "title": "GPT-6-Cyber released under Daybreak Red",
+    "coveredOn": "2026-11-07",
+    "post": "posts/2026-11-07-openai-api-changelog-roundup.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#november-4-2026",
+    "title": "GPT-Image-2.6 Sunburst and Flare, markup-guided editing",
+    "coveredOn": "2026-11-07",
+    "post": "posts/2026-11-07-openai-api-changelog-roundup.md"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/changelog#november-2-2026",
+    "title": "Outbound SIP calling generally available for the Live API",
+    "coveredOn": "2026-11-07",
+    "post": "posts/2026-11-07-openai-api-changelog-roundup.md"
   }
 ]
