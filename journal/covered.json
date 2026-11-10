@@ -1528,5 +1528,35 @@
     "title": "Outbound SIP calling generally available for the Live API",
     "coveredOn": "2026-11-07",
     "post": "posts/2026-11-07-openai-api-changelog-roundup.md"
+  },
+  {
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+    "coveredOn": "2026-11-10",
+    "post": "posts/2026-11-10-claude-fable-mythos-5-2.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/overview#november-9-2026",
+    "title": "Claude Fable 5.2 and Mythos 5.2 launched (release notes)",
+    "coveredOn": "2026-11-10",
+    "post": "posts/2026-11-10-claude-fable-mythos-5-2.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21321",
+    "title": "Claude Code v2.1.321",
+    "coveredOn": "2026-11-10",
+    "post": "posts/2026-11-10-claude-code-v2-1-321-322.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21322",
+    "title": "Claude Code v2.1.322",
+    "coveredOn": "2026-11-10",
+    "post": "posts/2026-11-10-claude-code-v2-1-321-322.md"
+  },
+  {
+    "url": "https://community.openai.com/t/build-your-own-games-on-the-codex-edition-modretro-chromatic/1414530",
+    "title": "Build your own games on the Codex edition ModRetro Chromatic",
+    "coveredOn": "2026-11-10",
+    "post": "posts/2026-11-10-openai-codex-modretro-chromatic.md"
   }
 ]
