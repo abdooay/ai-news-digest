@@ -1558,5 +1558,17 @@
     "title": "Build your own games on the Codex edition ModRetro Chromatic",
     "coveredOn": "2026-11-10",
     "post": "posts/2026-11-10-openai-codex-modretro-chromatic.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/roadshow-launch",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "coveredOn": "2026-11-11",
+    "post": "posts/2026-11-11-anthropic-ipo-roadshow.md"
+  },
+  {
+    "url": "https://community.openai.com/t/introducing-businesses-in-chatgpt-in-beta/1414865",
+    "title": "Introducing Businesses in ChatGPT in beta",
+    "coveredOn": "2026-11-11",
+    "post": "posts/2026-11-11-openai-businesses-in-chatgpt.md"
   }
 ]
