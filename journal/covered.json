@@ -1570,5 +1570,17 @@
     "title": "Introducing Businesses in ChatGPT in beta",
     "coveredOn": "2026-11-11",
     "post": "posts/2026-11-11-openai-businesses-in-chatgpt.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21323",
+    "title": "Claude Code v2.1.323",
+    "coveredOn": "2026-11-13",
+    "post": "posts/2026-11-13-claude-code-v2-1-323-code-mode.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/overview#november-12-2026",
+    "title": "Self-hosted Claude Managed Agents launched",
+    "coveredOn": "2026-11-13",
+    "post": "posts/2026-11-13-claude-managed-agents-self-hosted.md"
   }
 ]
