@@ -1582,5 +1582,11 @@
     "title": "Self-hosted Claude Managed Agents launched",
     "coveredOn": "2026-11-13",
     "post": "posts/2026-11-13-claude-managed-agents-self-hosted.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21325",
+    "title": "Claude Code v2.1.325",
+    "coveredOn": "2026-11-14",
+    "post": "posts/2026-11-14-claude-code-v2-1-325.md"
   }
 ]
