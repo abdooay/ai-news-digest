@@ -151,7 +151,7 @@
   },
   {
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "coveredOn": "2026-07-22",
     "post": "posts/2026-07-22-openai-board-appointments.md"
   },
@@ -577,7 +577,7 @@
   },
   {
     "url": "https://openai.com/index/navier-stokes-solution/",
-    "title": "An OpenAI model proposes a solution to the Navier\u2013Stokes problem",
+    "title": "An OpenAI model proposes a solution to the Navier–Stokes problem",
     "coveredOn": "2026-09-09",
     "post": "posts/2026-09-09-openai-navier-stokes-solution.md"
   },
@@ -1588,5 +1588,53 @@
     "title": "Claude Code v2.1.325",
     "coveredOn": "2026-11-14",
     "post": "posts/2026-11-14-claude-code-v2-1-325.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "title": "Anthropic prices its IPO at $83 a share",
+    "coveredOn": "2026-11-19",
+    "post": "posts/2026-11-19-anthropic-ipo-pricing.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "coveredOn": "2026-11-19",
+    "post": "posts/2026-11-19-openai-gpt-6-2-astra-sol.md"
+  },
+  {
+    "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+    "title": "GPT-6.2 Astra and Sol are now available",
+    "coveredOn": "2026-11-19",
+    "post": "posts/2026-11-19-openai-gpt-6-2-astra-sol.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21326",
+    "title": "Claude Code v2.1.326",
+    "coveredOn": "2026-11-19",
+    "post": "posts/2026-11-19-claude-code-changelog-roundup-326-328.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21327",
+    "title": "Claude Code v2.1.327",
+    "coveredOn": "2026-11-19",
+    "post": "posts/2026-11-19-claude-code-changelog-roundup-326-328.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21328",
+    "title": "Claude Code v2.1.328",
+    "coveredOn": "2026-11-19",
+    "post": "posts/2026-11-19-claude-code-changelog-roundup-326-328.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/overview#november-16-2026",
+    "title": "Text watermark expanded to Opus 4.6, Opus 4.5, Sonnet 4.5, Haiku 4.5",
+    "coveredOn": "2026-11-19",
+    "post": "posts/2026-11-19-claude-api-release-notes-roundup.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/overview#november-17-2026",
+    "title": "Linked billing (beta)",
+    "coveredOn": "2026-11-19",
+    "post": "posts/2026-11-19-claude-api-release-notes-roundup.md"
   }
 ]
