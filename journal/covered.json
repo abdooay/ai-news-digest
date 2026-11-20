@@ -1636,5 +1636,17 @@
     "title": "Linked billing (beta)",
     "coveredOn": "2026-11-19",
     "post": "posts/2026-11-19-claude-api-release-notes-roundup.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21329",
+    "title": "Claude Code v2.1.329",
+    "coveredOn": "2026-11-20",
+    "post": "posts/2026-11-20-claude-code-v2-1-329.md"
+  },
+  {
+    "url": "https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537",
+    "title": "GPT-Live-1.1 has arrived in the API",
+    "coveredOn": "2026-11-20",
+    "post": "posts/2026-11-20-openai-gpt-live-1-1-api.md"
   }
 ]
