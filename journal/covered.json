@@ -1648,5 +1648,65 @@
     "title": "GPT-Live-1.1 has arrived in the API",
     "coveredOn": "2026-11-20",
     "post": "posts/2026-11-20-openai-gpt-live-1-1-api.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21330",
+    "title": "Claude Code v2.1.330",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-claude-code-v2-1-330.md"
+  },
+  {
+    "url": "https://www.anthropic.com/news/ipo-close",
+    "title": "Anthropic announces closing of initial public offering",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-anthropic-ipo-close.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-medchembench/",
+    "title": "Introducing MedChemBench",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-openai-medchembench.md"
+  },
+  {
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+    "title": "How OpenAI's Performance Factory keeps ChatGPT fast",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-openai-performance-factory.md"
+  },
+  {
+    "url": "https://openai.com/index/the-silent-consensus/",
+    "title": "The Silent Consensus",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-openai-silent-consensus.md"
+  },
+  {
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier/",
+    "title": "Research acceleration: The jagged frontier",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-openai-jagged-frontier.md"
+  },
+  {
+    "url": "https://openai.com/index/inside-the-codex-sandbox/",
+    "title": "Inside the Codex sandbox",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-openai-codex-sandbox.md"
+  },
+  {
+    "url": "https://openai.com/index/managing-frontier-ai-risk/",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-openai-managing-frontier-ai-risk.md"
+  },
+  {
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-openai-figaro-partnership.md"
+  },
+  {
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "title": "Advancing chip design with OpenAI models",
+    "coveredOn": "2026-11-21",
+    "post": "posts/2026-11-21-openai-chip-design.md"
   }
 ]
