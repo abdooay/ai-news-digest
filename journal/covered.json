@@ -1708,5 +1708,11 @@
     "title": "Advancing chip design with OpenAI models",
     "coveredOn": "2026-11-21",
     "post": "posts/2026-11-21-openai-chip-design.md"
+  },
+  {
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "title": "Perplexity and Intelligence",
+    "coveredOn": "2026-11-23",
+    "post": "posts/2026-11-23-openai-perplexity-and-intelligence.md"
   }
 ]
