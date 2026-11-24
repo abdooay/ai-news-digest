@@ -151,7 +151,7 @@
   },
   {
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "coveredOn": "2026-07-22",
     "post": "posts/2026-07-22-openai-board-appointments.md"
   },
@@ -577,7 +577,7 @@
   },
   {
     "url": "https://openai.com/index/navier-stokes-solution/",
-    "title": "An OpenAI model proposes a solution to the Navier–Stokes problem",
+    "title": "An OpenAI model proposes a solution to the Navier\u2013Stokes problem",
     "coveredOn": "2026-09-09",
     "post": "posts/2026-09-09-openai-navier-stokes-solution.md"
   },
@@ -1714,5 +1714,23 @@
     "title": "Perplexity and Intelligence",
     "coveredOn": "2026-11-23",
     "post": "posts/2026-11-23-openai-perplexity-and-intelligence.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21331",
+    "title": "Claude Code v2.1.331",
+    "coveredOn": "2026-11-24",
+    "post": "posts/2026-11-23-claude-code-v2-1-331.md"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/release-notes/overview#november-23-2026",
+    "title": "Claude API: Opus 4.5 deprecation, Enterprise Frontier Safeguards beta",
+    "coveredOn": "2026-11-24",
+    "post": "posts/2026-11-23-claude-api-release-notes.md"
+  },
+  {
+    "url": "https://openai.com/index/introducing-shirudo/",
+    "title": "Introducing Shirudo",
+    "coveredOn": "2026-11-24",
+    "post": "posts/2026-11-23-openai-shirudo.md"
   }
 ]
