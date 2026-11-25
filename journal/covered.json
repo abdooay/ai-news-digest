@@ -1732,5 +1732,23 @@
     "title": "Introducing Shirudo",
     "coveredOn": "2026-11-24",
     "post": "posts/2026-11-23-openai-shirudo.md"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21332",
+    "title": "Claude Code v2.1.332",
+    "coveredOn": "2026-11-25",
+    "post": "posts/2026-11-25-claude-code-v2-1-332.md"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "coveredOn": "2026-11-25",
+    "post": "posts/2026-11-25-openai-gpt-6-protein-design.md"
+  },
+  {
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+    "title": "Searching for distant planets with Astra",
+    "coveredOn": "2026-11-25",
+    "post": "posts/2026-11-25-openai-astra-exoplanets.md"
   }
 ]
